@@ -1,96 +1,61 @@
-![logo](https://shaheer.kesug.com/wp-content/uploads/2024/03/cropped-cropped-profile-pic-3-87x87.png)
-<h1 align="center">Hi 👋, I'm Shaheer Ali</h1>
-<h3 align="center">Data Scientist / ML Engineer</h3>
+<h2 align="left">Shaheer Ali<br><br>Full Stack Developer | JavaScript Developer | WordPress Developer & Designer | CMS Developer | Software Engineer |<br><br>I am a passionate and skilled web developer with expertise in HTML, CSS, PHP, SQL, JavaScript, and WordPress. Since 2021, I have been working as a freelancer, delivering high-quality projects and exceeding client expectations.</h2>
 
-<img width="1400" align="center" alt="coding" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+###
 
-<p align="center">
-    <a href="https://shaheer-portfolio.com" target="_blank" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
-    </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazu021&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Mazu021&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheeralics&label=Profile%20views&color=0e75b6&style=flat" alt="shaheeralics" /> </p>
+###
 
-- 🔭 Data Science **Implementation of Graph Neural Network**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 
-- 🌱 Learning **TensorFlow, PyTorch, Scikit-learn & Coursera Courses**
+###
 
-- 📫 How to reach me **shaheeralics@hu.edu.pk**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="WordPress logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva logo" />
+</div>
 
-- ⚡ Fun fact **I think I am funny**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/shaheer-ali-swati" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/__shaheerali190" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-    </a>
-    <a href="https://www.instagram.com/__shaheerali/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>
-    <a href="https://www.kaggle.com/shaheerali197" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" alt="Kaggle" height="30" width="40" />
-    </a>
-</p>
+<div align="left">
+  <a href="https://shaheer.kesug.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=0A66C2&logoColor=white&labelColor=&style=plastic" height="35" alt="Portfolio logo" />
+  </a>
+  <a href="https://www.instagram.com/__shaheerali/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="Instagram logo" />
+  </a>
+  <a href="mailto:shaheeralics@hu.edu.pk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="Gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/shaheer-ali-swati" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://twitter.com/__shaheerali190" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="35" alt="Twitter logo" />
+  </a>
+  <a href="https://www.kaggle.com/shaheerali197" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=plastic" height="35" alt="Kaggle logo" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
-</p>
+###
 
-<p><img width="1400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheeralics&show_icons=true&locale=en&layout=compact" alt="shaheeralics" /></p>
-
-<p>&nbsp;<img width="1400" align="center" src="https
+<img src="https://raw.githubusercontent.com/Mazu021/Mazu021/output/snake.svg" alt="Snake animation" />
