@@ -12,7 +12,7 @@ For Github Stats
   <!---
   Current Streaks
   --->
-<img src="https://streak-stats.demolab.com?user=shaheeralics&theme=nightfox&border_radius=5&card_height=100" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=shaheeralics&theme=nightfox&border_radius=5&card_height=100" height=150 alt="GitHub Streak" />
 </div>
 
 <img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media3.giphy.com/media/xT9C25UNTwfZuk85WP/200w.gif?cid=6c09b9526dd9pi3tcvwwbm1kjzq4jz7zzvzh1wmw9r5dsinf&ep=v1_gifs_search&rid=200w.gif&ct=g)" alt="Data Science GIF" />
