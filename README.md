@@ -1,11 +1,14 @@
 <h2 align="left">Shaheer Ali<br><br>Data Scientist | Machine Learning Engineer | Python Developer | AI Enthusiast |</h2> <p>I am a dedicated and passionate Data Scientist with expertise in building machine learning models, data analysis, and developing end-to-end solutions. With a strong foundation in Python, TensorFlow, PyTorch, and SQL, I enjoy solving complex data problems and uncovering insights through data visualization and analysis.</p>
 
-<---
+<!---
 For Github Stats
 --->
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=shaheeralics&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <!---
+  Current Streaks
+  --->
   <img src="https://streak-stats.demolab.com?user=shaheeralics&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak Stats" />
 </div>
 
